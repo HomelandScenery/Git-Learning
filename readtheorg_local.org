@@ -10,5 +10,3 @@
 
 local settings
 add words 1
-
-
