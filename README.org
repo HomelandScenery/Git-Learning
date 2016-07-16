@@ -1,5 +1,5 @@
 * Git-Learning
 ** develop branch
 Creating a new branch is quick and simple.
-no ff testing
-fix issue 101
+git stash testing 
+git stash pop complete
